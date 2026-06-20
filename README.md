@@ -15,7 +15,11 @@
 
 ---
 
-🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kartheek-Lenka/Kartheek-Lenka/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 🚀 Current Focus
 AWS Architecture
