@@ -21,12 +21,13 @@
   <img src="https://raw.githubusercontent.com/Kartheek-Lenka/Kartheek-Lenka/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-🚀 Current Focus
-AWS Architecture
-Kubernetes
-Terraform
-DevOps Content Creation
-Production Deployments
+## 🚀 Current Focus
+
+- ☁ AWS Architecture
+- ☸ Kubernetes
+- 🏗 Terraform
+- 📺 DevOps Content Creation
+- 🚀 Production Deployments
 
 # 💻 DevOps Tech Stack
 
