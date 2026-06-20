@@ -15,6 +15,15 @@
 
 ---
 
+🐍 Contribution Snake
+
+🚀 Current Focus
+AWS Architecture
+Kubernetes
+Terraform
+DevOps Content Creation
+Production Deployments
+
 # 💻 DevOps Tech Stack
 
 ### 🔹 CI/CD & DevOps Tools  
